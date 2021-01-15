@@ -1,5 +1,5 @@
-CC = g++
-FLAGS = -Wall -g -std=c++11
+CC = gcc
+FLAGS = -Wall -g -std=c11
 MAIN = lab1exe
 LIBS = 
 INCLUDES = 
